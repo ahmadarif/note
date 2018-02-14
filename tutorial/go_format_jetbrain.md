@@ -1,1 +1,1 @@
-![Image](img/gofmt.png)
+![Image](../img/gofmt.png)
