@@ -6,4 +6,4 @@ Simpan semua kenangan link (tutorial, belajar, cheat) di sini.
 - Set cmder as default terminal in vscode [Link](https://github.com/Microsoft/vscode/issues/12006#issuecomment-303048849)
 - Install Oracle JDBC Driver in local maven repository [Link](https://www.mkyong.com/maven/how-to-add-oracle-jdbc-driver-in-your-maven-local-repository/)
 - Integration spring-boot-devtools and Intellij [Link](https://patrickgrimard.io/2016/01/18/spring-boot-devtools-first-look/)
-- Auto run `go fmt` when saving file in Jetbrain IDE [Link](go_format_jetbrain.md)
+- Auto run `go fmt` when saving file in Jetbrain IDE [Link](tutorial/go_format_jetbrain.md)
